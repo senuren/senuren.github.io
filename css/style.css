@@ -490,6 +490,8 @@ body {
   -moz-hyphens: manual;
   -ms-hyphens: manual;
   -webkit-hyphens: manual;
+  
+  font-family: "mononoki";
 }
 .content a {
   color: #383838;
@@ -1457,7 +1459,7 @@ pre code {
   padding: 0;
   border: none;
 
-  font-family: "mononoki"
+  font-family: "mononoki";
 }
 code {
   padding: 0 5px;
@@ -1465,7 +1467,7 @@ code {
   border-radius: 2px;
   -webkit-border-radius: 2px;
 
-  font-family: "mononoki"
+  font-family: "mononoki";
 }
 .highlight {
   overflow-x: auto;
